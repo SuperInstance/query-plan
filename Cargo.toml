@@ -1,0 +1,11 @@
+[package]
+name = "query-plan"
+version = "0.1.0"
+edition = "2021"
+description = "Query plan representation with cost estimation, join ordering, and plan enumeration"
+license = "MIT"
+repository = "https://github.com/SuperInstance/query-plan"
+keywords = ["query", "optimizer", "database", "planner"]
+categories = ["database", "algorithms"]
+
+[dependencies]
